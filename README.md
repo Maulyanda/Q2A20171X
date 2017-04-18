@@ -2,7 +2,6 @@
 
 # Maulyanda_1154008_d4TI2a
 # Quiz Web Service
-# soal kuis membuat schema xsd
 
 Pada quiz ini mepunyai instruksi yang dimana pada elemen :
 mk = Tidak boleh kosong
